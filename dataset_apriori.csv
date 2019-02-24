@@ -1,0 +1,11 @@
+tid,items
+1,"Handphone,Laptop"
+2,"Handphone,Charger,Laptop"
+3,"Powerbank,Laptop,Charger,Handphone"
+4,"Tablet,Laptop,Handphone"
+5,"Handphone,Charger,Tablet"
+6,"Tablet,Powerbank"
+7,"Handphone,Laptop,Tablet,Charger"
+8,"Charger,Handphone"
+9,"Handphone,Powerbank"
+10,"Laptop,Charger,Powerbank"
